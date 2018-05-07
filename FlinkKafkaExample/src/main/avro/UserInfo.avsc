@@ -1,0 +1,8 @@
+{
+  "namespace": "com.example.flink.avro",
+  "type": "record",
+  "name": "UserInfo",
+  "fields": [
+    {"name": "name", "type": "string"}
+  ]
+}
